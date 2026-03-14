@@ -29,11 +29,11 @@ The program automatically generates dashboards for each asset tracked. These vis
 
 | S&P 500 (ES) Analysis | Nasdaq 100 (NQ) Analysis |
 | :--- | :--- |
-| ![ES Analysis](./EXAMPLE_es_emini_report.png) | ![NQ Analysis](./nq_emini_report.png) |
+| ![ES Analysis](./EXAMPLE_es_emini_report.png) | ![NQ Analysis](./EXAMPLE_nq_emini_report.png) |
 
 ---
 
-## 📂 Project Structure
+## Project Structure:
 
 * `market_engine.py`: The core logic containing the `MarketAnalyzer` class and mathematical functions.
 * `main.py`: The execution script used to initialize the pipeline for specific futures contracts.
@@ -41,8 +41,6 @@ The program automatically generates dashboards for each asset tracked. These vis
 
 ---
 
-## ⚙️ Installation & Usage
-
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Market_Analyzer_Project.git](https://github.com/YOUR_USERNAME/Market_Analyzer_Project.git)
+   git clone [https://github.com/anu0331das/Market_Analyzer_Project.git](https://github.com/anu0331das/Market_Analyzer_Project.git)
